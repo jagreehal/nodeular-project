@@ -1,0 +1,8 @@
+{
+  "links": {
+    "nodeular-module-a": "./nodeular-module-a",
+    "nodeular-module-b": "./nodeular-module-b",
+    "nodeular-config": "./nodeular-config",
+    "nodeular-core": "./nodeular-core"
+  }
+}
