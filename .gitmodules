@@ -1,15 +1,15 @@
 [submodule "nodeular-config"]
 	path = nodeular-config
-	url = D:\\dev\\node\\nodeular\\nodeular-config
+	url = ../nodeular-config
 [submodule "nodeular-core"]
 	path = nodeular-core
-	url = D:\\dev\\node\\nodeular\\nodeular-core
+	url = ../nodeular-core
 [submodule "nodeular-module-a"]
 	path = nodeular-module-a
-	url = D:\\dev\\node\\nodeular\\nodeular-module-a
+	url = ../nodeular-module-a
 [submodule "nodeular-module-b"]
 	path = nodeular-module-b
-	url = D:\\dev\\node\\nodeular\\nodeular-module-b
+	url = ../nodeular-module-b
 [submodule "nodeular-web"]
 	path = nodeular-web
-	url = D:\\dev\\node\\nodeular\\nodeular-web
+	url = ../nodeular-web
